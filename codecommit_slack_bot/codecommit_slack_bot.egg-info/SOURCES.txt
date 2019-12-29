@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+codecommit_slack_bot/codecommit_slack_bot.egg-info/PKG-INFO
+codecommit_slack_bot/codecommit_slack_bot.egg-info/SOURCES.txt
+codecommit_slack_bot/codecommit_slack_bot.egg-info/dependency_links.txt
+codecommit_slack_bot/codecommit_slack_bot.egg-info/requires.txt
+codecommit_slack_bot/codecommit_slack_bot.egg-info/top_level.txt

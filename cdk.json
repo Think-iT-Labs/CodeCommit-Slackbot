@@ -1,0 +1,7 @@
+{
+    "app": "python3 app.py",
+    "context": {
+        "codecommit_repo_arn": "arn:aws:codecommit:<region>:<account>:<repository_name>",
+        "slack_webhook_url": "<slack_webhook_url>"
+    }
+}
